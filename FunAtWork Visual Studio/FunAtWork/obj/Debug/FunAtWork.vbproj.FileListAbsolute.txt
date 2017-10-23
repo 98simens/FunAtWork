@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\bin\Debug\FunAtWork.exe.config
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\bin\Debug\FunAtWork.exe
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\bin\Debug\FunAtWork.pdb
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\bin\Debug\FunAtWork.xml
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\obj\Debug\FunAtWork.vbprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\obj\Debug\FunAtWork.Resources.resources
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\obj\Debug\FunAtWork.vbproj.GenerateResource.Cache
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\obj\Debug\FunAtWork.exe
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\obj\Debug\FunAtWork.xml
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork\obj\Debug\FunAtWork.pdb

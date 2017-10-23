@@ -1,0 +1,11 @@
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\bin\Debug\FunAtWork Controller.exe.config
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\bin\Debug\FunAtWork Controller.exe
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\bin\Debug\FunAtWork Controller.pdb
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\bin\Debug\FunAtWork Controller.xml
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork Controller.vbprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork_Controller.Form1.resources
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork_Controller.Resources.resources
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork Controller.vbproj.GenerateResource.Cache
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork Controller.exe
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork Controller.xml
+C:\Users\Simon\Desktop\FunAtWork\FunAtWork Controller\obj\Debug\FunAtWork Controller.pdb
